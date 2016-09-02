@@ -1,6 +1,15 @@
 ﻿本地同步远程测试本地同步远程测试本地同步远程测试本地同步远程测试本地同步远程测试本地同步远程测试本地同步远程测试本地同步远程测试本地同步远程测试
 
+<<<<<<< HEAD
+=======
 
+<<<<<<< HEAD
 nonono
 
 bb test
+=======
+>>>>>>> refs/remotes/origin/BB
+nonono
+
+master test
+>>>>>>> refs/remotes/origin/master
